@@ -3,9 +3,10 @@
 # Resource Group, VM, Storage Account  with Terraform
 
 
-Before Deployment
+## Before Deployment
+
 ![Alt text](beforeDeploy.png?raw=true "beforeDeploy")
 
 
-After Deployment
+## After Deployment
 ![Alt text](deployment.png?raw=true "deployment")
